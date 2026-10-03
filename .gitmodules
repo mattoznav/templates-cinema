@@ -1,0 +1,9 @@
+[submodule "website"]
+	path = website
+	url = https://github.com/mattoznav/templates-cinema-website.git
+[submodule "admin"]
+	path = admin
+	url = https://github.com/mattoznav/templates-cinema-admin.git
+[submodule "customer-app"]
+	path = customer-app
+	url = https://github.com/mattoznav/templates-cinema-customer-app.git
