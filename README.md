@@ -7,6 +7,7 @@ A complete starting point for a cinema: listings, showtimes, tickets and the ven
 | [`website`](website) | Public website |
 | [`admin`](admin) | Back office for staff |
 | [`customer-app`](customer-app) | Mobile app for customers |
+| [`backend`](backend) | API shared by the website, admin and app |
 
 Each folder is a Git submodule with its own repository.
 
