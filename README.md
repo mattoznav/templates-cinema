@@ -101,4 +101,8 @@ Payments use the fake provider: no card is needed, and the flow (pending, confir
 | admin | `npm run build` |
 | customer-app | `flutter test` |
 
+## License
+
+The code is released under the [MIT License](LICENSE). The movie synopses in the backend data come from Wikipedia and stay under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/); the other movie facts come from Wikidata under CC0.
+
 Part of the [`templates`](https://github.com/mattoznav/templates) collection.
