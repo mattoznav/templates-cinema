@@ -9,6 +9,8 @@ A complete starting point for a cinema: listings, showtimes, seat booking, payme
 | [`admin`](admin) | Back office: daily figures, programme, films, bookings, check-in | Angular | `localhost:4200` |
 | [`customer-app`](customer-app) | Mobile app for customers | Flutter | iOS and Android |
 
+Live demo of the website: [mattoznav.github.io/templates-cinema-website](https://mattoznav.github.io/templates-cinema-website/), a static showcase published from the website repository with GitHub Pages. It runs without the backend: the programme is captured at build time, and accounts and bookings stay in the visitor's browser.
+
 Each folder is a Git submodule with its own repository and its own README with more detail. The demo cinema, "Northlight Cinema", is fictional. Film facts come from Wikidata and synopses from Wikipedia, credited on every film; posters are generated.
 
 ## Requirements
